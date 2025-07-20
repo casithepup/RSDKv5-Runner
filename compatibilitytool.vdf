@@ -1,0 +1,13 @@
+"compatibilitytools"
+{
+  "compat_tools"
+  {
+    "rsdkv5-runner" // Internal name of this tool
+    {
+      "install_path" "."
+      "display_name" "RSDKv5 Runner"
+      "from_oslist"  "windows"
+      "to_oslist"    "linux"
+    }
+  }
+}
