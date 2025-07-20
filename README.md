@@ -20,9 +20,11 @@ Select "RSDKv5 Runner" from drop down menu.
 
 # FAQ
 Q: Why would I use this?
+
 A: To track playtime on Sonic Mania on Steam.
 
 Q: Can I use RSDKv5U?
+
 A: Yes, if RSDKv5U is in the Sonic Mania directory, that will be loaded instead of RSDKv5.
 
 # Credits
